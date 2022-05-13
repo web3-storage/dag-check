@@ -1,0 +1,22 @@
+{
+  "name": "dag-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web3-storage/dag-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web3-storage/dag-check/issues"
+  },
+  "homepage": "https://github.com/web3-storage/dag-check#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
